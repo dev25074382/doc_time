@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117647352038",
+    "project_id": "doctime0412",
+    "storage_bucket": "doctime0412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117647352038:android:a12a36d9bafe0d0ba0db27",
+        "android_client_info": {
+          "package_name": "com.medi.doctime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqxJymF9oJ6uC2mV44B8eDKNgJ7AW3NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
